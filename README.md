@@ -1,0 +1,1 @@
+A controlled Qiskit experiment comparing two Variational Quantum Circuits with identical visible architectural counts. The notebook examines whether comparable predictive accuracy can coexist with different gradient dynamics and fidelity-kernel geometries.
